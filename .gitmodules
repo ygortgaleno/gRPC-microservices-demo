@@ -1,0 +1,3 @@
+[submodule "gRPC-golang-news"]
+	path = gRPC-golang-news
+	url = https://github.com/ygortgaleno/gRPC-golang-news
